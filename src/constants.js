@@ -165,8 +165,8 @@ export const projects = [
       "Created a personal portfolio website using React.js and Tailwind CSS to showcase projects and skills.Designed a modern, responsive layout with smooth scrolling, section transitions, and animations.Showcased projects with live links, code repositories, and a categorized skill set.Added a downloadable resume button, contact section, and interactive navbar for navigation.Focused on clean code, responsiveness, and a developer-friendly structure.",
     image: portfolioLogo,
     tags: ["React JS",  "HTML", "JavaScript","Tailwind CSS"],
-    github: "https://github.com/codingmastr/CSPrep",
-    webapp: "https://csprep.netlify.app/",
+    github: "https://github.com/22p31a0535/Portfolio.git",
+    webapp: "https://portfolio-jspr.onrender.com",
   },
   {
     id: 2,
