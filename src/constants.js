@@ -102,7 +102,7 @@ export const experiences = [
     img: APSCHELogo,
     role: "MERN STACK Intern",
     company: "APSCHE-SmartBridge",
-    date: "May 2025 - Present",
+    date: "May 2025 - july 2025",
     desc: "Developed a full-stack web application using the MERN stack, as part of an academic project under APSCHE . The project included user authentication, data management with MongoDB, and a responsive frontend using React and CSS. Gained hands-on experience in building scalable APIs and deploying full-stack apps.",
     skills: [
       "HTML",
@@ -114,6 +114,7 @@ export const experiences = [
       "MongoDb",
 
     ],
+    certificate: "https://drive.google.com/file/d/1CjUw1Rqb3_TbXUgWPRHlldZ3lMT_p7gf/view?usp=sharing"
   },
   {
     id: 1,
